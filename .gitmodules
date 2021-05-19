@@ -1,0 +1,3 @@
+[submodule "winforms-html-editor"]
+	path = winforms-html-editor
+	url = https://github.com/edouardpoitras/winforms-html-editor.git
